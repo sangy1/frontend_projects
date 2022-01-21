@@ -1,10 +1,15 @@
 body {
-    background-color:#58b1e7;
+    background-image: url("matrix.jpg");
+    background-position: center;
+    height: 100%;
+    background-size: 100% 100%;
+    
 }
+
 #clock {
-  color: rgb(92, 79, 5);
+  color: #32CD32;
   font-size: 195px;
-  background-color: rgba(0, 0, 0, 0.664);
+  background-color: rgba(0, 0, 0, 0.8);
   padding: 0.5em 0em;
   width: 80%;
   margin: 0px auto;
@@ -15,7 +20,7 @@ body {
   color: #fefefe;
   font-size: 50px;
   text-align:center;
-  background-color: #f52536;
+  background-color: black;
   padding: 0.5em 0em;
   width: 80%;
   margin: 10% auto 0%;
