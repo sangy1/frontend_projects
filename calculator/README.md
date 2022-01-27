@@ -1,5 +1,5 @@
 
-### CALCULATOR
+# CALCULATOR
 
 ## This is a simple calculator that can solve basic arithmetic
 
